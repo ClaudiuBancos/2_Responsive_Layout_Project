@@ -111,7 +111,6 @@ TABLET STYLES
 	.contact-links {
 		margin-top: 60px;
 	}
-s
 
 
 	/*~~~~~~~~~~~~~~~~~~~
@@ -137,6 +136,8 @@ s
 		font-weight: 900;
 		padding: 5px;
 	}
+
+}
 
 
 
@@ -274,3 +275,4 @@ DESKTOP STYLES
 		font-weight: 900;
 		padding: 10px 20px;
 	}
+}
